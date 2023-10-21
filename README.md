@@ -4,8 +4,17 @@
  - Node
  - React
  - vite
-- tailwind
+ - tailwind
 # Author
  - Pradeep Kumar Behera
 # Email
- -contact@pradeepkumarqa.in     
+ -contact@pradeepkumarqa.in 
+
+ # Steps to follow:
+ - Create a react app using Vit
+ - npm install
+ - npm run dev 
+
+ # steps to configure tailwind to bg-change-app
+ - npm install -D tailwindcss postcss autoprefixer
+ - npx tailwindcss init -p    
